@@ -8,7 +8,7 @@
  
  -- After clone the project and install the dependencies, use this command: expo start
 
-# Como posso user?
+# Como posso usar?
  -- Para instalar o expo e testar o App no seu celular, use: npm install --global expo-cli ou yarn add --global expo-cli
 
  -- Após clonar o projeto e instalar as dependências, use o comando: expo start
